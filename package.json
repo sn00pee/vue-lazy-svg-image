@@ -1,6 +1,6 @@
 {
   "name": "vue-lazy-svg-image",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Vue component that lazy loads a image using an SVG as a placeholder",
   "main": "index.js",
   "scripts": {
