@@ -62,3 +62,7 @@ Vue.use(LazySvgToImage)
   }
 }
 ```
+
+### Todo
+ - make more versatile
+ - alternative svg loading options?
