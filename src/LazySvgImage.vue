@@ -104,13 +104,4 @@ export default {
     }
   }
 
-  .svg-lazy-load {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    width: 100%;
-    height: 100%;
-  }
-
 </style>
