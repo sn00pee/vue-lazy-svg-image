@@ -8,9 +8,9 @@ yarn install vue-lazy-svg-image
 
 ```javaScript
 import Vue from 'vue'
-import LazySvgToImage from 'vue-lazy-svg-image'
+import LazySvgImage from 'vue-lazy-svg-image'
 
-Vue.use(LazySvgToImage)
+Vue.use(LazySvgImage)
 ```
 
 ```javaScript

@@ -1,5 +1,7 @@
 import LazySvgImage from './src/LazySvgImage'
-LazySvgToImage.install = function (Vue, options) {
+LazySvgImage.install = function (Vue, options) {
 
-  Vue.components('LazySvgImage', LazySvgImage)
+  Vue.component('LazySvgImage', LazySvgImage)
 }
+
+export default LazySvgImage
