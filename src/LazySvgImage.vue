@@ -10,7 +10,7 @@
 <script>
 
 export default {
-  name: "LazySvgToImage",
+  name: "LazySvgImage",
   props: {
     svg: {
       type: Object,
