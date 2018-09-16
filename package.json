@@ -1,0 +1,29 @@
+{
+  "name": "vue-lazy-svg-image",
+  "version": "0.1.0",
+  "description": "A Vue component that lazy loads a image using an SVG as a placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sn00pee/vue-lazy-svg-image.git"
+  },
+  "keywords": [
+    "vue",
+    "lazy-load",
+    "image",
+    "svg"
+  ],
+  "author": "Eric Seigers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sn00pee/vue-lazy-svg-image/issues"
+  },
+  "homepage": "https://github.com/sn00pee/vue-lazy-svg-image#readme",
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-svg-loader": "^0.9.0"
+  }
+}
