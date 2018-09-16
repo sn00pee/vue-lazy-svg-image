@@ -3,7 +3,7 @@
 use SVGs as a placeholder for lazy loading images.
 ### install
 ```bash
-yarn install vue-lazy-svg-image
+yarn add vue-lazy-svg-image
 ```
 
 ```javaScript
